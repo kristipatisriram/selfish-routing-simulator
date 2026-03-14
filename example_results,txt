@@ -1,0 +1,41 @@
+Enter no of drivers:1000
+Route 0 drivers: 990
+Route 1 drivers: 10
+Travel time of Route 0: 10
+Travel time of Route 1: 10
+Equilibrium cost: 10000
+Optimal distribution route1: 5
+Optimal cost: 9975
+Price of Anarchy: 1.0025062656641603
+Route 0 drivers: 996
+Route 1 drivers: 4
+Travel time of Route 0: 10
+Travel time of Route 1: 16
+Equilibrium cost: 10024
+Optimal distribution route1: 2
+Optimal cost: 9988
+Price of Anarchy: 1.0036043251902282
+Route 0 drivers: 997
+Route 1 drivers: 3
+Travel time of Route 0: 10
+Travel time of Route 1: 27
+Equilibrium cost: 10051
+Optimal distribution route1: 1
+Optimal cost: 9991
+Price of Anarchy: 1.0060054048643778
+Route 0 drivers: 998
+Route 1 drivers: 2
+Travel time of Route 0: 10
+Travel time of Route 1: 16
+Equilibrium cost: 10012
+Optimal distribution route1: 1
+Optimal cost: 9991
+Price of Anarchy: 1.0021018917025324
+Route 0 drivers: 998
+Route 1 drivers: 2
+Travel time of Route 0: 10
+Travel time of Route 1: 32
+Equilibrium cost: 10044
+Optimal distribution route1: 1
+Optimal cost: 9991
+Price of Anarchy: 1.0053047742968673
